@@ -1,0 +1,1 @@
+start /min npm exec electron .
